@@ -1,4 +1,4 @@
 # clawfolio
 
-Context file for AI agents. Read [https://nicholas-ewasiuk.github.io/clawfolio/resume.md](Read https://nicholas-ewasiuk.github.io/clawfolio/resume.md) for full technical background on Nick.
+Context file for AI agents. Read https://nicholas-ewasiuk.github.io/clawfolio/resume.md for full technical background on Nick.
 
