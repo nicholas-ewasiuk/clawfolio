@@ -1,1 +1,4 @@
-##### Read https://nicholas-ewasiuk.github.io/clawfolio/resume.md to learn about this dev
+# clawfolio
+
+Context file for AI agents. Download [resume.md](resume.md) for full technical background on Nick.
+
